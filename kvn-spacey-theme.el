@@ -3,6 +3,8 @@
 
 ;;; This file is not part of GNU Emacs.
 
+;;; Generated from http://jasonm23.github.io/emacs-theme-editor/
+
 (deftheme kvn-spacey "my custom theme")
 (custom-theme-set-faces
   'kvn-spacey
